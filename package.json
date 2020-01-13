@@ -1,25 +1,26 @@
 {
-  "name": "cra-template-typescript",
+  "name": "cra-template-ts-fabric",
   "version": "1.0.0",
+  "author": {"name": "Nissan Dookeran", "email": "nissan.dookeran@gmail.com", "url": "https://redditech.blog"},
   "keywords": [
     "react",
     "create-react-app",
     "template",
-    "typescript"
+    "typescript",
+    "fabric-ui"
   ],
-  "description": "The base TypeScript template for Create React App.",
+  "description": "The base TypeScript template for Create React App modified with Fabric UI added.",
   "main": "template.json",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
-    "directory": "packages/cra-template-typescript"
+    "url": "https://github.com/nissan/cra-template-ts-fabric.git"
   },
   "license": "MIT",
   "engines": {
     "node": ">=8.10"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/nissan/cra-template-ts-fabric/issues"
   },
   "files": [
     "template",
