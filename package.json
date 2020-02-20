@@ -1,13 +1,13 @@
 {
   "name": "cra-template-ts-fabric",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {"name": "Nissan Dookeran", "email": "nissan.dookeran@gmail.com", "url": "https://redditech.blog"},
   "keywords": [
     "react",
     "create-react-app",
     "template",
     "typescript",
-    "fabric-ui"
+    "office-ui-fabric"
   ],
   "description": "The base TypeScript template for Create React App modified with Fabric UI added.",
   "main": "template.json",
